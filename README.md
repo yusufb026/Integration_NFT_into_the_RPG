@@ -96,7 +96,7 @@ To run the application you'll need:
 * [Node](https://nodejs.org/)
 * [VScode](https://code.visualstudio.com/download)
 * Clone the repository:
-  * ```$ git clone https://github.com/AlexiaYuriko24/Coin-Marketplace.git ``` or ```download the zip file```
+  * ```$ git clone https://github.com/yusufb026/Integration_NFT_into_the_RPG.git ``` or ```download the zip file```
 
 Now go to project folder and run:
 ```bash

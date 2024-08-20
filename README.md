@@ -100,7 +100,7 @@ To run the application you'll need:
 
 Now go to project folder and run:
 ```bash
-$ cd NFT_Marketplace
+$ cd NFT-marketplace-dev
 
 $ npm install
 $ npm run

